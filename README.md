@@ -21,5 +21,4 @@
 
 
 ### 📍 Where to find me
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akshay-srivastava-11593b123)  [<img src = "https://img.shields.io/badge/Steam-%23E4405F.svg?&style=for-the-badge&color=gray&logo=Steam&logoColor=white">](https://steamcommunity.com/id/cid945/)
-
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akshay-srivastava-11593b123)  [<img src = "https://img.shields.io/badge/Telegram-%23E4405F.svg?&style=for-the-badge&color=blue&logo=Telegram&logoColor=white">](https://t.me/zazu5813) [<img src = "https://img.shields.io/badge/Steam-%23E4405F.svg?&style=for-the-badge&color=gray&logo=Steam&logoColor=white">](https://steamcommunity.com/id/cid945/)
