@@ -4,7 +4,7 @@
 - [One2n Consulting: Site Reliability Engineer](https://one2n.in/)
 
 ### 👨‍💻 What i'm doing/done
-<img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/Language-Shell-blue?style=for-the-badge&logo=Shell&logoColor=white">
+<img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/Language-Shell-blue?style=for-the-badge&logo=Linux&logoColor=white">
 
 <img src="https://img.shields.io/badge/DevOps-Terraform-4B32C3?style=for-the-badge&logo=Terraform&logoColor=white"/><img src="https://img.shields.io/badge/DevOps-Docker-0073ec?style=for-the-badge&logo=Docker&logoColor=white"/><br /><img src="https://img.shields.io/badge/DevOps-Consul-b91d66?style=for-the-badge&logo=Consul&logoColor=white"/><img src="https://img.shields.io/badge/DevOps-Nomad-00bc7f?style=for-the-badge&logo=Nomad_UI&logoColor=white"/><img src="https://img.shields.io/badge/DevOps-Kubernetes-00bc7f?style=for-the-badge&logo=Kubernetes&logoColor=blue"/>
 
