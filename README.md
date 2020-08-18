@@ -15,7 +15,7 @@
 
 
 ### 📈 Some stats on me
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-sri123&layout=compact&theme=radical)![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=akshay-sri123&count_private=true&show_icons=true&include_all_commits=true&hide=stars,issues&theme=radical&hide_bo)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-sri123&count_private=true&layout=compact&theme=radical)![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=akshay-sri123&count_private=true&show_icons=true&include_all_commits=true&hide=stars,issues&theme=radical&hide_bo)
 
 <!-- ### 📖 What i am currently learning -->
 
