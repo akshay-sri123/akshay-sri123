@@ -1,4 +1,4 @@
-<h2 align="center">Hello there! My name is Akshay Srivastava. 👋🤓</h2>
+<h2 align="center">Hello there! My name is Akshay Srivastava</h2>
 
 ### 💼 Where i am currently working at/as
 - [One2n Consulting: Site Reliability Engineer](https://one2n.in/)
